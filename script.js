@@ -187,9 +187,9 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Example: Show the projects section when clicking on a button with id "projects-tab"
-    document.getElementById('projects-tab').addEventListener('click', function() {
-        showTab('projects');
-    });
+    // document.getElementById('projects-tab').addEventListener('click', function() {
+    //     showTab('projects');
+    // });
 });
 
 
